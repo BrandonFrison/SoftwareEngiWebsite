@@ -1,0 +1,12 @@
+Most of the links are not working 
+I will make the submission form. but i thought that once its made the linking to the databse will be cumbersome.
+i havent added much intro thing mostly its just designing
+i used around 4 softwares . so if some one it not able to get that whats going on in the code dont worry, i dont know as well 
+i used Boot strap, mobirise, dreamweaver and codelobster 
+
+alot work is still remaining
+hope it all goes well
+
+the contact support at the bottom of the main page "index.html" works you can check the messages at
+lifeinvadersbookings@gmail.com
+pass- lifeinvaders5216
